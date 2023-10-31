@@ -7,6 +7,7 @@
     "start": "wrangler dev"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "r2-explorer": "^1.0.0"
   },
   "devDependencies": {
